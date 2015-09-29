@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:yourapp="http://schemas.android.com/apk/res-auto"
+      tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/badge"
+        yourapp:actionLayout="@layout/menu_badge"
+        yourapp:showAsAction="always"
+        android:title="cart"
+        />
+
+
+</menu>

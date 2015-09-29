@@ -1,0 +1,18 @@
+<!-- [ Mirror metadata ] generatedAt: 1443489877770 -->
+<!-- Generated screen file. Fill the id tags below with content with
+which to populate your previewed layout. For a complete specification
+of sample data, please see http://jimulabs.com/sample-data-specifications/ 
+
+Valid attributes on <screen> tag: theme="@style/someTheme" inEditMode="false" overlay="@drawable/mockup" -->
+<screen>
+    <_content layout="@layout/menu_badge">
+        <!-- ImageView Examples:
+        <menu_badge_icon src="@drawable/image_resource" />
+        <menu_badge_icon src="relative_path/image.jpg" /> -->
+        <menu_badge_icon />
+        <!-- TextView Examples:
+        <menu_badge text="@string/string_resource" />
+        <menu_badge text="Text literal" textSize="14sp" /> -->
+        <menu_badge />
+    </_content>
+</screen>

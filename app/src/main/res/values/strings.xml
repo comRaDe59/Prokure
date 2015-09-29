@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Prokure</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="search_hint">"Search Dil ki deal" </string>
+    <string name="search_instructions">Use the search box in the Action Bar to look up a word</string>
+    <string name="search_settings_description">Where show???</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="search_label">Search</string>
+    <string name="search_hint2">Search Here</string>
+</resources>

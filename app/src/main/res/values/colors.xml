@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorPrimaryLight">#D1C4E9</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorHighlight">#B6B6B6</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="colorText">#17301C</color>
+    <color name="colorGreen">#B2FF59</color>
+    <color name="colorYellow">#EEFF41</color>
+    <color name="colorSkyBlue">#90CAF9</color>
+
+    <color name="white">#fff</color>
+    <color name="indigoShade">#5C6BC0</color>
+    <color name="textHint">#C0D6DF</color>
+    <color name="tab_background">@color/colorPrimary</color>
+    <color name="tab_selected_strip">@color/colorAccent</color>
+
+    <color name="black">#000000</color>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+</resources>
